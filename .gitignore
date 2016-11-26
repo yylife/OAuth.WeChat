@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/src/Microsoft.AspNetCore.Authentication.WeChat/bin
+/src/Microsoft.AspNetCore.Authentication.WeChat/obj
+/src/Microsoft.AspNetCore.Authentication.WeChat/Microsoft.AspNetCore.Authentication.WeChat.xproj.user
+/src/Microsoft.AspNetCore.Authentication.WeChat/project.lock.json
+/.vs/OAuth.WeChat/v14
